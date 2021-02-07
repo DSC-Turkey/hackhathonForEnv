@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193561719220",
+    "project_id": "forenv-1",
+    "storage_bucket": "forenv-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193561719220:android:fa7485f0efdbdd084ac2e1",
+        "android_client_info": {
+          "package_name": "com.tk.forenvironment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193561719220-nvk40m7lkh5aomh3cv8r7ot9t3ejggg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA80wWHp3vOwL-zfzLzIWCnNgsBvGTx1ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193561719220-nvk40m7lkh5aomh3cv8r7ot9t3ejggg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
